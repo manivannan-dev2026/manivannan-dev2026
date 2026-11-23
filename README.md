@@ -1,4 +1,4 @@
-# 🚀 Help Tech | Developed by Manivannan S
+# 🚀 Help Tech | Developed by Manivannan K
 
 வணக்கம்! 🙏 I am **Manivannan S**, Founder of **Help Tech** — Building simple, bilingual (Tamil & English) web applications for everyday life and small businesses in Tamil Nadu.
 
